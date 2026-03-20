@@ -1,3 +1,7 @@
+second_set_command_1
+second_set_command_2
+second_set_command_3
+second_set_command_4
 1.find
 2.top
 3.kill
